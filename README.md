@@ -1,8 +1,6 @@
 # Summer-Internship-I
 # Week 1: Basic Calculator Website
 
-![Calculator Screenshot](screenshot.png)
-
 ## 13/05/2024 (Monday): Introduction of Company and Internship Plan
 - Introduced to the company and its work culture.
 - Understood the structure and expectations of the internship.
@@ -32,3 +30,35 @@
 - Prepared the project for deployment by organizing files and code.
 - Deployed the web page on GitHub Pages for public access.
 - Verified the deployment to ensure the web page is working as expected.
+
+# Week 2: Netflix Clone Website
+
+### 20/05/2024 (Monday): Given the Second Task
+- Received the second project task: enhancing the web page with new features.
+- Reviewed the requirements and objectives of the new task.
+- Planned the approach and identified the key areas to focus on.
+
+### 21/05/2024 (Tuesday): Learned Different Types of Sections in a Web Page
+- Studied the different types of sections commonly used in web pages (e.g., headers, footers, main content, sidebars).
+- Analyzed best practices for organizing and structuring web page content.
+- Applied this knowledge to plan the layout for the new task.
+
+### 22/05/2024 (Wednesday): Studied the Bootstrap Library
+- Explored the Bootstrap library and its components.
+- Learned how to use Bootstrap for responsive design and rapid development.
+- Implemented Bootstrap components (e.g., navigation bars, cards, buttons) in the project.
+
+### 23/05/2024 (Thursday): Learned CSS Animations
+- Studied CSS animations and their properties.
+- Practiced creating simple animations to enhance user interaction and experience.
+- Integrated CSS animations into the project to make it more dynamic and engaging.
+
+### 24/05/2024 (Friday): Learned How to Load JSON Data into a CSS Template
+- Learned the basics of JSON (JavaScript Object Notation) and its structure.
+- Studied methods to load and parse JSON data using JavaScript.
+- Implemented functionality to load JSON data into the project and display it using a CSS template.
+
+### 25/05/2024 (Saturday): Deployed the Project on GitHub Pages
+- Prepared the enhanced project for deployment by organizing files and code.
+- Deployed the updated web page on GitHub Pages for public access.
+- Verified the deployment to ensure all new features are working as expected.
