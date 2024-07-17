@@ -76,7 +76,7 @@ This project is a Tic-Tac-Toe game web application built using HTML, CSS, and Ja
 
 ## Usage
 To play the Tic-Tac-Toe game:
-1. Clone the repository: `git clone https://github.com/your-username/tic-tac-toe.git`
+1. Clone the repository: `git clone https://github.com/Manavmesia/Summer-Internship-I/tree/main/task-4`
 2. Open `index.html` in your web browser.
 
 ## Contributing
