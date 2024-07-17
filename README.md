@@ -18,7 +18,7 @@ This project is a simple calculator web application built using HTML and CSS. It
 ## Usage
 
 To use the calculator:
-1. Clone the repository: `git clone https://github.com/Manavmesia/calculator.git`
+1. Clone the repository: `git clone https://github.com/Manavmesia/Summer-Internship-I/tree/main/task-1`
 2. Open `index.html` in your web browser.
 
 ## Folder Structure
