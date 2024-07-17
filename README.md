@@ -55,8 +55,8 @@ This project is a simple Todo List web application built using HTML, CSS, and Ja
 
 ## Usage
 To use the Todo List:
-1. Clone the repository: `git clone https://github.com/your-username/todo-list.git`
-2. Open `index.html` in your web browser.
+1. Clone the repository: `git clone https://github.com/Manavmesia/Summer-Internship-I/tree/main/task-3`
+2. Open `todo.html` in your web browser.
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
