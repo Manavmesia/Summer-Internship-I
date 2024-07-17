@@ -97,3 +97,34 @@
 - Verified the deployment to ensure the application is functioning as expected.
 
 # Week 4: Tic-Tac-Toe Game Website
+
+## 03/06/2024 (Monday): Created the Basic HTML Structure for the Tic-Tac-Toe Game
+- Initiated the Tic-Tac-Toe game project by setting up the HTML file.
+- Created the basic structure, including the game grid and player sections.
+- Ensured a clean and semantic HTML layout to facilitate styling and functionality addition.
+
+## 04/06/2024 (Tuesday): Designed the Layout and Styles Using CSS
+- Styled the Tic-Tac-Toe game using CSS to enhance visual appeal.
+- Applied styles to the game grid, player sections, and control buttons.
+- Focused on making the design clean, intuitive, and visually engaging.
+
+## 05/06/2024 (Wednesday): Added JavaScript Functionality for Player Moves
+- Implemented JavaScript code to handle player moves and game interactions.
+- Ensured that player moves are accurately reflected on the game grid.
+- Integrated event listeners to capture player actions and update the game state.
+
+## 06/06/2024 (Thursday): Implemented Win Condition Checks and Game Logic
+- Developed the logic to check for win conditions after each player move.
+- Implemented game rules and conditions for winning, drawing, and continuing play.
+- Refined the game logic to ensure smooth and accurate gameplay.
+
+## 07/06/2024 (Friday): Tested the Game for Various Scenarios and Edge Cases
+- Conducted extensive testing of the game to identify and fix bugs.
+- Tested various scenarios and edge cases to ensure robustness.
+- Made necessary adjustments to improve game stability and performance.
+
+## 08/06/2024 (Saturday): Deployed the Project on GitHub Pages
+- Prepared the Tic-Tac-Toe game project for deployment by organizing files and code.
+- Deployed the game on GitHub Pages for public access.
+- Verified the deployment to ensure the game is functioning as expected.
+
