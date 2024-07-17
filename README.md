@@ -1,5 +1,5 @@
 # Summer-Internship-I
-#
+
 
 # 1. Basic Calculator Website
 This project is a simple calculator web application built using HTML and CSS. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division in a user-friendly interface.
@@ -20,7 +20,7 @@ To use the calculator:
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
-
+#
 
 # 2. Netflix Clone Website
 
