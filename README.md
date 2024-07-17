@@ -1,4 +1,6 @@
 # Summer-Internship-I
+
+
 # Basic Calculator Website
 This project is a simple calculator web application built using HTML and CSS. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division in a user-friendly interface.
 
@@ -18,3 +20,28 @@ To use the calculator:
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+
+# Netflix Clone Website
+
+This project is a Netflix clone website built using HTML and CSS. It aims to replicate the user interface and experience of the popular streaming platform, allowing users to browse movies and TV shows in a visually appealing layout.
+
+## Features
+
+- **Sleek Interface:** Clean and intuitive design similar to Netflix.
+- **Browse Content:** Explore a variety of movies and TV shows.
+- **Responsive Design:** Works seamlessly on desktops, tablets, and mobile devices.
+
+## Technologies Used
+
+- **HTML:** Structure and content presentation.
+- **CSS:** Styling and layout.
+
+## Usage
+
+To view the Netflix clone:
+1. Clone the repository: `git clone https://github.com/your-username/netflix-clone.git`
+2. Open `index.html` in your web browser.
+
+## Folder Structure
+
