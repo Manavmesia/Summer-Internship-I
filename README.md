@@ -64,7 +64,7 @@
 - Deployed the updated web page on GitHub Pages for public access.
 - Verified the deployment to ensure all new features are working as expected.
 
-# Week 3: Daily Activities
+# Week 3: Todo List Website
 
 ## 27/05/2024 (Monday): Created the Basic HTML Structure for the To-Do List
 - Initiated the To-Do List project by setting up the HTML file.
