@@ -1,4 +1,5 @@
 # Summer-Internship-I
+
 # Week 1: Basic Calculator Website
 
 ## 13/05/2024 (Monday): Introduction of Company and Internship Plan
@@ -62,3 +63,35 @@
 - Prepared the enhanced project for deployment by organizing files and code.
 - Deployed the updated web page on GitHub Pages for public access.
 - Verified the deployment to ensure all new features are working as expected.
+
+# Week 3: Daily Activities
+
+### 27/05/2024 (Monday): Created the Basic HTML Structure for the To-Do List
+- Initiated the To-Do List project by setting up the HTML file.
+- Created the basic structure, including sections for the task input, task list, and controls.
+- Ensured a clean and semantic HTML layout for ease of styling and functionality addition.
+
+### 28/05/2024 (Tuesday): Designed the Layout and Styles Using CSS
+- Styled the To-Do List using CSS to improve its visual appeal.
+- Applied styles for the task input, task list, and buttons.
+- Focused on making the design clean, intuitive, and user-friendly.
+
+### 29/05/2024 (Wednesday): Learned About the Browser’s Local Storage
+- Studied how the browser’s local storage works and its applications.
+- Explored methods to store, retrieve, and manage data in local storage.
+- Planned how to use local storage to save tasks persistently.
+
+### 30/05/2024 (Thursday): Added JavaScript Functionality for Adding Tasks
+- Implemented JavaScript code to add new tasks to the list dynamically.
+- Ensured tasks added through the input field are displayed correctly in the task list.
+- Integrated local storage to save tasks so they persist across sessions.
+
+### 31/05/2024 (Friday): Implemented Task Completion and Deletion Features
+- Added functionality to mark tasks as completed with a visual indication.
+- Implemented a feature to delete tasks from the list.
+- Updated local storage accordingly to reflect task completion and deletion.
+
+### 01/06/2024 (Saturday): Deployed the Project on GitHub Pages
+- Prepared the project for deployment by organizing files and code.
+- Deployed the To-Do List application on GitHub Pages for public access.
+- Verified the deployment to ensure the application is functioning as expected.
