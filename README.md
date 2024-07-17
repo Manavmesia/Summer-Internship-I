@@ -3,6 +3,7 @@
 
 This project is a simple calculator web application built using HTML and CSS. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division in a user-friendly interface.
 
+
 ## Features
 
 - **Simple Interface:** Clean and intuitive design for easy use.
