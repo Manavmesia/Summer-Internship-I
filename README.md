@@ -34,64 +34,64 @@
 
 # Week 2: Netflix Clone Website
 
-### 20/05/2024 (Monday): Given the Second Task
+## 20/05/2024 (Monday): Given the Second Task
 - Received the second project task: enhancing the web page with new features.
 - Reviewed the requirements and objectives of the new task.
 - Planned the approach and identified the key areas to focus on.
 
-### 21/05/2024 (Tuesday): Learned Different Types of Sections in a Web Page
+## 21/05/2024 (Tuesday): Learned Different Types of Sections in a Web Page
 - Studied the different types of sections commonly used in web pages (e.g., headers, footers, main content, sidebars).
 - Analyzed best practices for organizing and structuring web page content.
 - Applied this knowledge to plan the layout for the new task.
 
-### 22/05/2024 (Wednesday): Studied the Bootstrap Library
+## 22/05/2024 (Wednesday): Studied the Bootstrap Library
 - Explored the Bootstrap library and its components.
 - Learned how to use Bootstrap for responsive design and rapid development.
 - Implemented Bootstrap components (e.g., navigation bars, cards, buttons) in the project.
 
-### 23/05/2024 (Thursday): Learned CSS Animations
+## 23/05/2024 (Thursday): Learned CSS Animations
 - Studied CSS animations and their properties.
 - Practiced creating simple animations to enhance user interaction and experience.
 - Integrated CSS animations into the project to make it more dynamic and engaging.
 
-### 24/05/2024 (Friday): Learned How to Load JSON Data into a CSS Template
+## 24/05/2024 (Friday): Learned How to Load JSON Data into a CSS Template
 - Learned the basics of JSON (JavaScript Object Notation) and its structure.
 - Studied methods to load and parse JSON data using JavaScript.
 - Implemented functionality to load JSON data into the project and display it using a CSS template.
 
-### 25/05/2024 (Saturday): Deployed the Project on GitHub Pages
+## 25/05/2024 (Saturday): Deployed the Project on GitHub Pages
 - Prepared the enhanced project for deployment by organizing files and code.
 - Deployed the updated web page on GitHub Pages for public access.
 - Verified the deployment to ensure all new features are working as expected.
 
 # Week 3: Daily Activities
 
-### 27/05/2024 (Monday): Created the Basic HTML Structure for the To-Do List
+## 27/05/2024 (Monday): Created the Basic HTML Structure for the To-Do List
 - Initiated the To-Do List project by setting up the HTML file.
 - Created the basic structure, including sections for the task input, task list, and controls.
 - Ensured a clean and semantic HTML layout for ease of styling and functionality addition.
 
-### 28/05/2024 (Tuesday): Designed the Layout and Styles Using CSS
+## 28/05/2024 (Tuesday): Designed the Layout and Styles Using CSS
 - Styled the To-Do List using CSS to improve its visual appeal.
 - Applied styles for the task input, task list, and buttons.
 - Focused on making the design clean, intuitive, and user-friendly.
 
-### 29/05/2024 (Wednesday): Learned About the Browser’s Local Storage
+## 29/05/2024 (Wednesday): Learned About the Browser’s Local Storage
 - Studied how the browser’s local storage works and its applications.
 - Explored methods to store, retrieve, and manage data in local storage.
 - Planned how to use local storage to save tasks persistently.
 
-### 30/05/2024 (Thursday): Added JavaScript Functionality for Adding Tasks
+## 30/05/2024 (Thursday): Added JavaScript Functionality for Adding Tasks
 - Implemented JavaScript code to add new tasks to the list dynamically.
 - Ensured tasks added through the input field are displayed correctly in the task list.
 - Integrated local storage to save tasks so they persist across sessions.
 
-### 31/05/2024 (Friday): Implemented Task Completion and Deletion Features
+## 31/05/2024 (Friday): Implemented Task Completion and Deletion Features
 - Added functionality to mark tasks as completed with a visual indication.
 - Implemented a feature to delete tasks from the list.
 - Updated local storage accordingly to reflect task completion and deletion.
 
-### 01/06/2024 (Saturday): Deployed the Project on GitHub Pages
+## 01/06/2024 (Saturday): Deployed the Project on GitHub Pages
 - Prepared the project for deployment by organizing files and code.
 - Deployed the To-Do List application on GitHub Pages for public access.
 - Verified the deployment to ensure the application is functioning as expected.
