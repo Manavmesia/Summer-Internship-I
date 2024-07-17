@@ -20,7 +20,7 @@ To use the calculator:
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
-#
+
 
 # 2. Netflix Clone Website
 
