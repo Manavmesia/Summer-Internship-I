@@ -55,8 +55,8 @@
 - Integrated CSS animations into the project to make it more dynamic and engaging.
 
 ## 24/05/2024 (Friday): Learned How to Load JSON Data into a CSS Template
-- Learned the basics of JSON (JavaScript Object Notation) and its structure.
-- Studied methods to load and parse JSON data using JavaScript.
+- Learned to make the clone of different websites.
+- Made the clone website of Netflix which works similar to that.
 - Implemented functionality to load JSON data into the project and display it using a CSS template.
 
 ## 25/05/2024 (Saturday): Deployed the Project on GitHub Pages
