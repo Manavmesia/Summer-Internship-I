@@ -60,3 +60,24 @@ To use the Todo List:
 
 ## Contributing
 Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+
+# 4. Tic-Tac-Toe Game Website
+This project is a Tic-Tac-Toe game web application built using HTML, CSS, and JavaScript. It allows two players to play the classic game of Tic-Tac-Toe in a browser-based environment.
+
+## Features
+- **Classic Gameplay:** Two players take turns marking spaces in a 3x3 grid to achieve three in a row.
+- **Real-Time Interaction:** Game updates in real-time, providing immediate feedback on player moves.
+- **Responsive Design:** Works seamlessly on desktops, tablets, and mobile devices.
+
+## Technologies Used
+- **HTML:** Structure and basic game grid.
+- **CSS:** Styling and layout.
+- **JavaScript:** Dynamic functionality and game logic.
+
+## Usage
+To play the Tic-Tac-Toe game:
+1. Clone the repository: `git clone https://github.com/your-username/tic-tac-toe.git`
+2. Open `index.html` in your web browser.
+
+## Contributing
+Contributions are welcome! Please fork the repository and create a pull request with your improvements.
