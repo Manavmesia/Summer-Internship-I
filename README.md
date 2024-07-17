@@ -40,7 +40,7 @@ This project is a Netflix clone website built using HTML and CSS. It aims to rep
 ## Usage
 
 To view the Netflix clone:
-1. Clone the repository: `git clone https://github.com/your-username/netflix-clone.git`
+1. Clone the repository: `git clone https://github.com/Manavmesia/Summer-Internship-I/tree/main/task-2`
 2. Open `index.html` in your web browser.
 
 ## Folder Structure
