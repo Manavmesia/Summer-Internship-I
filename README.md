@@ -1,17 +1,26 @@
 # Summer-Internship-I
-Basic Calculator Website
+# Basic Calculator Website
+
 This project is a simple calculator web application built using HTML and CSS. It provides basic arithmetic operations such as addition, subtraction, multiplication, and division in a user-friendly interface.
 
+![Calculator Screenshot](screenshot.png)
 
-Features
-Simple Interface: Clean and intuitive design for easy use.
-Arithmetic Operations: Perform addition, subtraction, multiplication, and division.
-Responsive Design: Works seamlessly on desktops, tablets, and mobile devices.
-Technologies Used
-HTML: Structure and basic functionality.
-CSS: Styling and layout.
-Contributing
-Contributions are welcome! Please fork the repository and create a pull request with your improvements.
+## Features
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+- **Simple Interface:** Clean and intuitive design for easy use.
+- **Arithmetic Operations:** Perform addition, subtraction, multiplication, and division.
+- **Responsive Design:** Works seamlessly on desktops, tablets, and mobile devices.
+
+## Technologies Used
+
+- **HTML:** Structure and basic functionality.
+- **CSS:** Styling and layout.
+
+## Usage
+
+To use the calculator:
+1. Clone the repository: `git clone https://github.com/your-username/calculator.git`
+2. Open `index.html` in your web browser.
+
+## Folder Structure
+
